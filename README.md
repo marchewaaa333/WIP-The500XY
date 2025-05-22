@@ -113,5 +113,22 @@ Nice airflow setup keeps the prints crispy and the hotend chill.
 
 ---
 
+---
+
+## 🌈 Upcoming: Multi-Color Support (Planned)
+
+Yep, it’s coming.
+
+The500XY is getting **multi-color/multi-material support** in **Q4 2025 or Q1 2026**,  
+using an **MMU-style filament switching system** (similar to Prusa MMU or Bambu AMS).
+
+The plan is to keep one hotend and switch filaments automatically –  
+clean, smart, and without overcomplicating the motion system.
+
+More details, prototypes, and spaghetti blobs coming soon™.
+
+
+---
+
 Made with way too much white and pink monster energy drinks 🥤 and a bit of insanity  
 — `@marchewaaa333`
