@@ -60,7 +60,6 @@ and gave it a new name and identity: **The500XY**.
 ## 💬 License & Credits
 
 Based on the awesome [Rook 2020 Scalable]([https://github.com/GadgetAngel/rook](https://www.printables.com/model/482283-rook-2020-scalable-mk1)) design.  
-This project is open-source and released under the [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 Feel free to fork, remix, improve — just don’t be a dick about it 😉
 
