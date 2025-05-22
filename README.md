@@ -70,14 +70,30 @@ Feel free to fork, remix, improve — just don’t be a dick about it 😉
 *(Coming soon — will add build pics, renders, and maybe a timelapse video)*
 
 ---
+## 🧠 Electronics & Software
+
+This machine isn’t just muscle — it's got brains too.
+
+### 🔌 Main Components:
+- 🧠 **Mainboard**: BigTreeTech **Octopus v1.1**
+- 🖥️ **Display**: BTT **HDMI5** touchscreen
+- 🍓 **Host**: Raspberry Pi 4 (4GB or 8GB)
+- 🌀 **Motors**: Standard **NEMA17** stepper motors
+- 🧠 **Firmware**: [**Klipper**](https://www.klipper3d.org/) (because Marlin just isn’t fast enough for this beast)
+
+Everything runs through **Fluidd** or **Mainsail** (your choice) via Klipper.  
+Fast prints, smart macros, easy tuning — and yeah, it can scream.
+
+---
 
 ## ⚙️ TODO (Next Steps)
 
 - [ ] Upload STEP/STL files  
-- [ ] Add electronics + wiring diagram  
-- [ ] Include firmware config (Klipper/Marlin?)  
+- [ ] Add full wiring diagram  
+- [ ] Include `printer.cfg` example for Klipper  
+- [ ] Document endstops, probes, fans, heaters, etc.  
 - [ ] Full BOM with part links  
-- [ ] Assembly guide (maybe a PDF or video)
+
 
 ---
 
