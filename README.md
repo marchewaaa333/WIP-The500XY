@@ -70,6 +70,7 @@ Feel free to fork, remix, improve — just don’t be a dick about it 😉
 *(Coming soon — will add build pics, renders, and maybe a timelapse video)*
 
 ---
+
 ## 🧠 Electronics & Software
 
 This machine isn’t just muscle — it's got brains too.
@@ -79,10 +80,26 @@ This machine isn’t just muscle — it's got brains too.
 - 🖥️ **Display**: BTT **HDMI5** touchscreen
 - 🍓 **Host**: Raspberry Pi 4 (4GB or 8GB)
 - 🌀 **Motors**: Standard **NEMA17** stepper motors
-- 🧠 **Firmware**: [**Klipper**](https://www.klipper3d.org/) (because Marlin just isn’t fast enough for this beast)
+- ⚙️ **Firmware**: [**Klipper**](https://www.klipper3d.org/) (because Marlin just can’t keep up)
 
-Everything runs through **Fluidd** or **Mainsail** (your choice) via Klipper.  
-Fast prints, smart macros, easy tuning — and yeah, it can scream.
+Runs beautifully with **Fluidd** or **Mainsail**, depending on your vibe.  
+Fast, smooth, and super customizable.
+
+---
+
+## 🔩 Toolhead & Cooling
+
+### 📏 Auto Bed Leveling:
+- **Biqu MicroProbe** – small, light, reliable AF
+
+### 🔥 Hotend:
+- **Trianglelab CR10 CHC** – direct Volcano-style beast, high-flow
+
+### 🌬️ Cooling:
+- **2 × 4010 blower fans** – part cooling  
+- **1 × 3010 fan** – for the hotend heatsink  
+
+Nice airflow setup keeps the prints crispy and the hotend chill.
 
 ---
 
@@ -93,7 +110,6 @@ Fast prints, smart macros, easy tuning — and yeah, it can scream.
 - [ ] Include `printer.cfg` example for Klipper  
 - [ ] Document endstops, probes, fans, heaters, etc.  
 - [ ] Full BOM with part links  
-
 
 ---
 
